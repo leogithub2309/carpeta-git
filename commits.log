@@ -1,0 +1,86 @@
+commit 2abec1dcc977c9b5723ca29786581682321a611a
+Author: Leonel Linares <leosep1996@gmail.com>
+Date:   Thu Jun 22 15:39:43 2023 -0400
+
+    Agregando dos parrafos
+
+commit c51317f59654276cc3888c82b56456ebbbc4dc7b
+Merge: 6b78253 44ccf64
+Author: Leonel Linares <leosep1996@gmail.com>
+Date:   Thu Jun 22 15:21:49 2023 -0400
+
+    Agregando estaciones del año con fechas de inicio y resolviendo conflicto
+
+commit 6b7825353c0d6913294f27bb5d420204348639b5
+Author: Leonel Linares <leosep1996@gmail.com>
+Date:   Thu Jun 22 14:58:30 2023 -0400
+
+    Agregando estaciones del año con fechas de inicios
+
+commit 44ccf645a2d58afc9bc42415e6c5e50df04169ab
+Author: Leonel Linares <leosep1996@gmail.com>
+Date:   Thu Jun 22 14:58:30 2023 -0400
+
+    Agregando las estaciones del año
+
+commit b0ce7d22898c316ac2dab04bfa191e10a8868150
+Author: Leonel Linares <leosep1996@gmail.com>
+Date:   Thu Jun 22 14:26:48 2023 -0400
+
+    Haciendo pruebas como repaso
+
+commit 44fe88024312f91ccfd0dbb392cd878723b161a1
+Author: Leonel Linares <leosep1996@gmail.com>
+Date:   Wed Jun 21 15:00:59 2023 -0400
+
+    cambio en la rama master
+
+commit 975562df56f656c7719e670bc414e0334713f564
+Author: Leonel Linares <leosep1996@gmail.com>
+Date:   Wed Jun 21 14:50:05 2023 -0400
+
+    Agregando cambios al archivo html
+
+commit 813059031b89871d9f97029f171be66629bf4e8a
+Author: Leonel Linares <leosep1996@gmail.com>
+Date:   Wed Jun 21 14:26:37 2023 -0400
+
+    Creando archivo css y js
+
+commit d7a8f2a44bb0d1d750b15cb396fe95f89d7d7de6
+Author: Leonel Linares <leosep1996@gmail.com>
+Date:   Wed Jun 21 13:57:55 2023 -0400
+
+    Creacion de rama html y archivo index.html
+
+commit 5d25e650da6508bb48be893b57e1188f70d70077
+Author: Leonel Linares <leosep1996@gmail.com>
+Date:   Wed Jun 21 13:19:53 2023 -0400
+
+    Ignorando los archivos .exe
+
+commit 0c70625629711835c0935ff8479c3ff64f83339c
+Author: leogithub2309 <49526093+leogithub2309@users.noreply.github.com>
+Date:   Wed Jun 21 12:33:30 2023 -0400
+
+    Create LICENSE
+    
+    Creando licencia del repositorio
+
+commit 19974ea98aa995c72e81e41e1a65ef46627bdb89
+Author: Leonel Linares <leosep1996@gmail.com>
+Date:   Wed Jun 21 12:02:34 2023 -0400
+
+    Se agregaron cambios en el README
+
+commit 3d6403c329dc273533efb61c6af4624a860985c3
+Author: Leonel Linares <leosep1996@gmail.com>
+Date:   Wed Jun 21 11:38:50 2023 -0400
+
+    Segundo commit
+
+commit 773923d8ae32be3109c24f31835b18aba4069811
+Author: Leonel Linares <leosep1996@gmail.com>
+Date:   Wed Jun 21 11:31:39 2023 -0400
+
+    Primer commit
